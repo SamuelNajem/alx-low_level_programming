@@ -2,11 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/* More headers goes here */
-
-/* betty style doc main function goes here*/
-
-/* main -  entry point
+/**
+ *
+ *  main - program to return a ramdom number
  *
  *
  * Return: Always 0 (success)
