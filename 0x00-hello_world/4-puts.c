@@ -2,8 +2,7 @@
 /*
  * main - program that display wit put statement
  *
- * Return 0
- *
+ * Return: Always 0 (Success)
 */
 
 int main(void)
