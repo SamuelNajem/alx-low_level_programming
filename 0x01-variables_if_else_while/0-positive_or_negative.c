@@ -4,7 +4,9 @@
 
 /**
  *
- * main - program to return a ramdom number
+ * main - program to return a ramdom number.
+ *
+ * Documentation - code to return positive, negative or zero.
  *
  * Return: Always 0 (Success)
 */
