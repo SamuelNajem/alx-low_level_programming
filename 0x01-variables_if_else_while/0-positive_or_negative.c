@@ -3,12 +3,11 @@
 #include <stdio.h>
 
 /**
+ *main - main block of code
  *
- * main - program excution start here.
+ *Documentation - code to return positive, negative or zero.
  *
- * Documentation - code to return positive, negative or zero.
- *
- * Return: Always 0 (Success)
+ *Return: Always 0 (Success)
  */
 
 int main(void)
