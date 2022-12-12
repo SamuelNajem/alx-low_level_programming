@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 /**
- *main - main execution portal starts here
+ * main - Entry point
  *
- * description - program to diplay all possible commbinations digit
+ * Description: program to diplay all possible commbinations digit
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
