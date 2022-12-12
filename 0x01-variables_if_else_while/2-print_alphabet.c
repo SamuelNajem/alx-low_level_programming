@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * Main - program to print alphabet in lowercase.
+ * main - main block code
  *
  * Description - print alphabet in lowercase on a newline.
  *
@@ -13,7 +13,7 @@ int main(void)
 {
 	char c = 'a';
 
-	while (c <= 'a')
+	while (c <= 'z')
 	{
 		putchar(c);
 		c++;
