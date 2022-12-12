@@ -5,7 +5,7 @@
  *
  * Documentation: program to print out lower case with exception of q & e
  *
- * Retun: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
