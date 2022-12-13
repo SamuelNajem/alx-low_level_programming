@@ -1,5 +1,5 @@
-#ifdef HOLD_h_INCLUDE
-#define HOLD_h_INCLUDE
+#ifdef HOLDBORTON_H_INCLUDE
+#define HOLDBORTON_H_INCLUDE
 
 int _putchar(char);
 void point_alphabet(void);
